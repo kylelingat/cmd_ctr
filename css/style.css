@@ -1,0 +1,38 @@
+
+#box {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  border-radius: 25px;
+}
+
+#box1 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  position: relative;
+  left: 300px
+  top: 20px;
+  border-radius: 25px;
+}
+
+#box2 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+  bottom: 600px;
+  border-radius: 25px;
+}
+
+#box3 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  position: relative;
+  left: 300px;
+  bottom: 600px;
+  border-radius: 25px;
+}
+}
